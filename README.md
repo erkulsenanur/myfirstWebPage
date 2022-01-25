@@ -1,4 +1,4 @@
-![myfirstWebPageIMG](myfirstWebPageIMG.png)
+![myfirstWebPage Repo IMG](myfirstWebPageIMG.PNG)
 
 # My First Web Page
 This repository is my first Web Page study.
